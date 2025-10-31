@@ -1,15 +1,19 @@
-Student evaluations of instruction (SEIs/SAIs) are widely considered necessary by most universities, but the degree to which they are essential can vary depending on institutional goals and perspectives.​
+Common flaws with SEIs (Student Evaluations of Instruction) and SAIs (Student Assessment of Instruction) as practiced today include issues related to bias, validity, and representativeness, which can limit their effectiveness as measures of teaching quality.​
 
-Why SEIs/SAIs Are Seen as Necessary
-Continuous Improvement: SEIs/SAIs provide actionable feedback, allowing instructors to adjust teaching methods, address student concerns, and continually improve course quality for future students.​
+Key Flaws of SEIs/SAIs
+Biases in Student Ratings: SEI/SAI responses can be influenced by factors unrelated to teaching effectiveness, such as instructor gender, ethnicity, course difficulty, or grade expectations, leading to potential unfair evaluations.​
 
-Accountability: They serve as one of the few formal means to hold faculty accountable for teaching effectiveness and student engagement, which is especially important for institutions valuing high-quality instruction.​
+Response Rate and Representativeness: Often, only a subset of students completes evaluations, which can skew results if the responders are not representative of the entire class.​
 
-Personnel Decisions: SEI/SAI results are often integral to promotion, tenure, and contract renewal processes, helping ensure that teaching performance is fairly considered alongside research and service.​
+Focus on Popularity Over Learning: Evaluations may reflect student satisfaction or instructor likability more than actual learning or instructional quality, potentially rewarding less rigorous courses.​
 
-Student Inclusion: These evaluations are one way to ensure student voices are heard in shaping their own educational experiences, fostering a sense of ownership and shared responsibility.​
+Timing and Survey Fatigue: SEIs are typically conducted near course end when students are busy, leading to rushed or less thoughtful responses, and repeated surveys can cause fatigue and lower quality feedback.​
 
-Limitations and Debate
-While necessary for the reasons above, SEIs/SAIs are not flawless. Research suggests potential issues with response biases, the impact of non-teaching factors (like course difficulty), and the risk of low participation rates limiting their representativeness. Many universities therefore use SEIs/SAIs in combination with peer review and other performance measures for faculty assessment.​
+Institutional Responses
+Many institutions supplement SEIs/SAIs with peer reviews, teaching portfolios, and other qualitative measures to get a fuller picture of teaching effectiveness.​
 
-In conclusion, SEIs/SAIs are generally necessary to support instructional quality, ensure institutional accountability, and include students in the evaluation process, though they are most valuable when combined with other forms of teaching evaluation.
+Efforts are ongoing to refine survey instruments to reduce bias and improve validity, and to increase student participation for more representative data.​
+
+Overall, while SEIs/SAIs are useful tools, these flaws suggest caution in interpreting results and highlight the need for multiple metrics in assessing teaching quality.
+
+Link to Perplexity: https://www.perplexity.ai/search/what-is-an-sei-in-education-HmVqDdRkSDKqLtMhKM.t5w#4
