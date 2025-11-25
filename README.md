@@ -1,19 +1,4 @@
-Common flaws with SEIs (Student Evaluations of Instruction) and SAIs (Student Assessment of Instruction) as practiced today include issues related to bias, validity, and representativeness, which can limit their effectiveness as measures of teaching quality.​
+Abstract Text:
+Higher education requires that students invest significant time, money, and energy to earn degrees. Following each course, accredited universities and institutions solicit student feedback to evaluate faculty, course relevance, and the overall student experience through Student Evaluations of Instruction (SEIs). Despite the high investment and the opportunity for actionable feedback, SEIs face the same problems as other experience surveys. Students exhibit low engagement, reflected in low response rates and ‘flat’ answers that lack nuance and insight.
 
-Key Flaws of SEIs/SAIs
-Biases in Student Ratings: SEI/SAI responses can be influenced by factors unrelated to teaching effectiveness, such as instructor gender, ethnicity, course difficulty, or grade expectations, leading to potential unfair evaluations.​
-
-Response Rate and Representativeness: Often, only a subset of students completes evaluations, which can skew results if the responders are not representative of the entire class.​
-
-Focus on Popularity Over Learning: Evaluations may reflect student satisfaction or instructor likability more than actual learning or instructional quality, potentially rewarding less rigorous courses.​
-
-Timing and Survey Fatigue: SEIs are typically conducted near course end when students are busy, leading to rushed or less thoughtful responses, and repeated surveys can cause fatigue and lower quality feedback.​
-
-Institutional Responses
-Many institutions supplement SEIs/SAIs with peer reviews, teaching portfolios, and other qualitative measures to get a fuller picture of teaching effectiveness.​
-
-Efforts are ongoing to refine survey instruments to reduce bias and improve validity, and to increase student participation for more representative data.​
-
-Overall, while SEIs/SAIs are useful tools, these flaws suggest caution in interpreting results and highlight the need for multiple metrics in assessing teaching quality.
-
-Link to Perplexity: https://www.perplexity.ai/search/what-is-an-sei-in-education-HmVqDdRkSDKqLtMhKM.t5w#4
+In this submission, we will discuss integrating LLMs within different elements of the survey. The first integration involves using traditional open-ended questions to engage students and clarify and expand upon brief, vague answers, thereby incentivizing students to provide detailed answers to their initial replies. The second integration is through anonymized, rephrased feedback from peers about the course, allowing students to verify or reject claims based on their own experiences. The third integration is with the reporting side, enabling faculty to engage more deeply with the feedback.
